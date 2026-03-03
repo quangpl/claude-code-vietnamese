@@ -165,7 +165,7 @@ cc-vietnamese status
 
 ## Credits
 
-Based on the technical research from [claude-code-vime](https://github.com/trancong12102/claude-code-vime).
+Inspired by [claude-code-vime](https://github.com/trancong12102/claude-code-vime) by [@trancong12102](https://github.com/trancong12102).
 
 ## License
 
