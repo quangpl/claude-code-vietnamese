@@ -163,6 +163,10 @@ cc-vietnamese status
 - EVKey
 - Unikey (Windows, with Wine on macOS)
 
+## Partnership
+
+This project is proudly supported by [Zovo.one](https://zovo.one/) - Building the future with AI.
+
 ## Credits
 
 Inspired by [claude-code-vime](https://github.com/trancong12102/claude-code-vime) by [@trancong12102](https://github.com/trancong12102).
